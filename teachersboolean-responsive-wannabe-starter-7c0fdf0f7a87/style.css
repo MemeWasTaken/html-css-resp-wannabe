@@ -71,3 +71,36 @@ img {
 .clear {
   clear: both;
 }
+
+/* Mobile Version */
+@media screen and (max-width: 480px) {
+  body {
+    background-color: #F2F2CD;
+    font-size: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .row {
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 2em;
+    margin-bottom: 1em;
+  }
+  h1 {
+    font-size: 2.5em;
+    margin: 0;
+  }
+  #lezioni .row .left, 
+  #lezioni .row .right {
+    margin-top: 2em;
+    width: 90%;
+  }
+  h3 {
+    margin: 0;
+  }
+}
+/* /Mobile Version */
