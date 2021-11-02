@@ -1,0 +1,12 @@
+Exercise: Responsive Wannabe
+repository: html-css-resp-wannabe
+
+Usando le CSS media queries, trasforma il repo ‘html-responsive-wannabe’ in una versione navigabile quando la larghezza dello schermo diventa < di 420px
+L’html e il css presenti non possono essere modificati, possiamo solo aggiungere regole per modificare l’aspetto al di sotto dei 420px.
+
+BONUS:
+Aggiungere una visualizzazione intermedia per i tablet.
+
+TIPS:
+Studiamo bene il codice che ci è stato dato e controlliamo in inspector se tutto va come deve andare.
+Fate attenzione: a volte l’inspector di Chrome può dare qualche problema con le mediaquery, controllate il lavoro anche con l’inspector di Firefox.
